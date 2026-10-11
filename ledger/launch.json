@@ -1,0 +1,18 @@
+{
+  "ok": false,
+  "games": [],
+  "claims": [],
+  "done": false,
+  "daa": "585933084",
+  "mempool": 34057,
+  "node": "muon-10.kaspa.blue",
+  "priority": 100,
+  "feeRate": 300,
+  "fund": {
+    "sent": true,
+    "attempt": 0,
+    "feeRate": 300,
+    "mass": "2036",
+    "feeSompi": "610800"
+  }
+}
